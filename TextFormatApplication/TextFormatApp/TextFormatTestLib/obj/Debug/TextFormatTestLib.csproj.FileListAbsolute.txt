@@ -1,0 +1,17 @@
+C:\Users\kchittiprolu\Documents\PracticeProjects\TextFormatApplication\TextFormatApp\TextFormatLib\TextFormatTestLib\obj\Debug\TextFormatTestLib.csprojResolveAssemblyReference.cache
+C:\Users\kchittiprolu\Documents\PracticeProjects\TextFormatApplication\TextFormatApp\TextFormatLib\TextFormatTestLib\bin\Debug\TextFormatTestLib.dll
+C:\Users\kchittiprolu\Documents\PracticeProjects\TextFormatApplication\TextFormatApp\TextFormatLib\TextFormatTestLib\bin\Debug\TextFormatTestLib.pdb
+C:\Users\kchittiprolu\Documents\PracticeProjects\TextFormatApplication\TextFormatApp\TextFormatLib\TextFormatTestLib\bin\Debug\nunit.framework.dll
+C:\Users\kchittiprolu\Documents\PracticeProjects\TextFormatApplication\TextFormatApp\TextFormatLib\TextFormatTestLib\bin\Debug\TextFormatLib.dll
+C:\Users\kchittiprolu\Documents\PracticeProjects\TextFormatApplication\TextFormatApp\TextFormatLib\TextFormatTestLib\bin\Debug\TextFormatLib.pdb
+C:\Users\kchittiprolu\Documents\PracticeProjects\TextFormatApplication\TextFormatApp\TextFormatLib\TextFormatTestLib\bin\Debug\nunit.framework.xml
+C:\Users\kchittiprolu\Documents\PracticeProjects\TextFormatApplication\TextFormatApp\TextFormatLib\TextFormatTestLib\obj\Debug\TextFormatTestLib.dll
+C:\Users\kchittiprolu\Documents\PracticeProjects\TextFormatApplication\TextFormatApp\TextFormatLib\TextFormatTestLib\obj\Debug\TextFormatTestLib.pdb
+C:\Users\kchittiprolu\Documents\PracticeProjects\TextFormatApplication\TextFormatApp\TextFormatTestLib\bin\Debug\TextFormatTestLib.dll
+C:\Users\kchittiprolu\Documents\PracticeProjects\TextFormatApplication\TextFormatApp\TextFormatTestLib\bin\Debug\TextFormatTestLib.pdb
+C:\Users\kchittiprolu\Documents\PracticeProjects\TextFormatApplication\TextFormatApp\TextFormatTestLib\bin\Debug\nunit.framework.dll
+C:\Users\kchittiprolu\Documents\PracticeProjects\TextFormatApplication\TextFormatApp\TextFormatTestLib\bin\Debug\TextFormatLib.dll
+C:\Users\kchittiprolu\Documents\PracticeProjects\TextFormatApplication\TextFormatApp\TextFormatTestLib\bin\Debug\TextFormatLib.pdb
+C:\Users\kchittiprolu\Documents\PracticeProjects\TextFormatApplication\TextFormatApp\TextFormatTestLib\obj\Debug\TextFormatTestLib.csprojResolveAssemblyReference.cache
+C:\Users\kchittiprolu\Documents\PracticeProjects\TextFormatApplication\TextFormatApp\TextFormatTestLib\obj\Debug\TextFormatTestLib.dll
+C:\Users\kchittiprolu\Documents\PracticeProjects\TextFormatApplication\TextFormatApp\TextFormatTestLib\obj\Debug\TextFormatTestLib.pdb

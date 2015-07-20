@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CoverageSession xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Modules>
+    <Module skippedDueTo="Filter" hash="2C-40-71-3E-01-E1-2D-A4-E2-A2-4A-BC-7D-1F-63-50-AC-95-F1-14">
+      <FullName>C:\Windows\assembly\GAC_32\mscorlib\2.0.0.0__b77a5c561934e089\mscorlib.dll</FullName>
+      <ModuleName>mscorlib</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="F9-04-A8-31-CD-FB-23-72-95-63-5D-14-9A-A0-66-8E-7F-44-93-7A">
+      <FullName>C:\Windows\assembly\GAC_32\mscorlib\2.0.0.0__b77a5c561934e089\sorttbls.nlp</FullName>
+      <ModuleName>mscorlib</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="6E-30-2E-50-36-FB-60-2C-8E-50-C0-83-54-8B-CC-EA-A8-91-B6-CC">
+      <FullName>C:\Windows\assembly\GAC_32\mscorlib\2.0.0.0__b77a5c561934e089\sortkey.nlp</FullName>
+      <ModuleName>mscorlib</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="D9-51-D2-3D-8C-16-B3-35-50-E2-97-23-20-65-AF-AE-3E-3C-3D-FC">
+      <FullName>C:\Users\kchittiprolu\Documents\PracticeProjects\TextFormatProject\lib\Nunit\bin\nunit-console-x86.exe</FullName>
+      <ModuleName>nunit-console-x86</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="F2-ED-FF-09-01-C9-D7-BC-29-AC-A6-93-C5-97-8A-0D-43-DD-8D-F2">
+      <FullName>C:\Users\kchittiprolu\Documents\PracticeProjects\TextFormatProject\lib\Nunit\bin\lib\nunit-console-runner.dll</FullName>
+      <ModuleName>nunit-console-runner</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="36-B9-FF-C0-07-EA-59-4D-23-2E-FD-CD-5A-45-CF-C0-2C-42-2A-98">
+      <FullName>C:\Users\kchittiprolu\Documents\PracticeProjects\TextFormatProject\lib\Nunit\bin\lib\nunit.core.dll</FullName>
+      <ModuleName>nunit.core</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="14-C3-4B-3E-39-7A-EE-C0-B9-2F-83-44-2F-04-8A-F7-48-7B-67-DE">
+      <FullName>C:\Users\kchittiprolu\Documents\PracticeProjects\TextFormatProject\lib\Nunit\bin\lib\nunit.util.dll</FullName>
+      <ModuleName>nunit.util</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="5E-95-A6-AD-88-48-98-B1-62-7F-4E-5A-C1-0E-F3-B7-85-56-44-E8">
+      <FullName>C:\Users\kchittiprolu\Documents\PracticeProjects\TextFormatProject\lib\Nunit\bin\lib\nunit.core.interfaces.dll</FullName>
+      <ModuleName>nunit.core.interfaces</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="A8-11-D7-52-4C-12-FE-1E-D5-1D-AD-35-BD-8E-E7-0A-41-48-A9-CD">
+      <FullName>C:\Windows\assembly\GAC_MSIL\System.Configuration\2.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll</FullName>
+      <ModuleName>System.Configuration</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="69-83-EA-EB-05-DB-C7-0D-87-78-F7-A0-8E-28-2B-58-34-D4-9C-B5">
+      <FullName>C:\Windows\assembly\GAC_MSIL\System\2.0.0.0__b77a5c561934e089\System.dll</FullName>
+      <ModuleName>System</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="B5-AF-88-F9-56-1E-52-13-ED-33-48-88-20-77-DD-2F-A1-1B-44-36">
+      <FullName>C:\Windows\assembly\GAC_MSIL\System.Xml\2.0.0.0__b77a5c561934e089\System.Xml.dll</FullName>
+      <ModuleName>System.Xml</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="30-0B-06-AA-56-C3-82-1B-9E-C2-86-15-B1-B5-86-72-49-D0-D6-7C">
+      <FullName>C:\Windows\assembly\GAC_MSIL\System.Runtime.Remoting\2.0.0.0__b77a5c561934e089\System.Runtime.Remoting.dll</FullName>
+      <ModuleName>System.Runtime.Remoting</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="3F-DE-B7-BC-B1-3C-E8-92-53-46-DE-31-FD-0F-42-AA-B0-8B-1A-F3">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll</FullName>
+      <ModuleName>mscorlib</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="29-BC-32-15-21-E8-F9-6D-87-31-AF-AD-0B-21-31-A6-BB-2F-E4-00">
+      <FullName>C:\Users\kchittiprolu\Documents\PracticeProjects\TextFormatProject\lib\Nunit\bin\nunit-agent-x86.exe</FullName>
+      <ModuleName>nunit-agent-x86</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="36-B9-FF-C0-07-EA-59-4D-23-2E-FD-CD-5A-45-CF-C0-2C-42-2A-98">
+      <FullName>C:\Users\kchittiprolu\Documents\PracticeProjects\TextFormatProject\lib\Nunit\bin\lib\nunit.core.dll</FullName>
+      <ModuleName>nunit.core</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="14-C3-4B-3E-39-7A-EE-C0-B9-2F-83-44-2F-04-8A-F7-48-7B-67-DE">
+      <FullName>C:\Users\kchittiprolu\Documents\PracticeProjects\TextFormatProject\lib\Nunit\bin\lib\nunit.util.dll</FullName>
+      <ModuleName>nunit.util</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="5E-95-A6-AD-88-48-98-B1-62-7F-4E-5A-C1-0E-F3-B7-85-56-44-E8">
+      <FullName>C:\Users\kchittiprolu\Documents\PracticeProjects\TextFormatProject\lib\Nunit\bin\lib\nunit.core.interfaces.dll</FullName>
+      <ModuleName>nunit.core.interfaces</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="98-54-0E-D5-F8-8E-A2-10-F8-05-4B-0A-E0-A3-C0-BF-53-BA-B3-39">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll</FullName>
+      <ModuleName>System</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="41-E4-B7-1F-1D-5A-03-E3-25-97-69-EB-0E-7F-02-BA-F4-B9-5A-D8">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Runtime.Remoting\v4.0_4.0.0.0__b77a5c561934e089\System.Runtime.Remoting.dll</FullName>
+      <ModuleName>System.Runtime.Remoting</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="58-2D-DD-6B-5F-8E-AA-A2-25-4E-A9-3A-D9-B3-F1-4C-32-10-00-FB">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll</FullName>
+      <ModuleName>System.Configuration</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="8B-7A-84-28-F9-A1-75-E1-A8-64-05-FB-84-AA-30-36-36-A1-5A-B9">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll</FullName>
+      <ModuleName>System.Xml</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="2A-5A-01-0C-D4-A4-FF-E7-57-0E-A6-BC-4E-B5-A1-AD-B9-2E-1B-9F">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_32\System.Web\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Web.dll</FullName>
+      <ModuleName>System.Web</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="A4-BB-DA-CD-7D-D4-0E-CD-46-A8-93-EC-37-DB-61-5F-E0-43-7F-7A">
+      <FullName>C:\Windows\assembly\GAC_32\System.Web\2.0.0.0__b03f5f7f11d50a3a\System.Web.dll</FullName>
+      <ModuleName>System.Web</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="36-B9-FF-C0-07-EA-59-4D-23-2E-FD-CD-5A-45-CF-C0-2C-42-2A-98">
+      <FullName>C:\Users\kchittiprolu\Documents\PracticeProjects\TextFormatProject\lib\Nunit\bin\lib\nunit.core.dll</FullName>
+      <ModuleName>nunit.core</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="98-54-0E-D5-F8-8E-A2-10-F8-05-4B-0A-E0-A3-C0-BF-53-BA-B3-39">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll</FullName>
+      <ModuleName>System</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="53-25-23-C6-63-70-35-C6-0C-82-04-1A-0A-BF-1A-E7-1F-EA-74-A3">
+      <FullName>C:\Users\kchittiprolu\Documents\PracticeProjects\TextFormatProject\lib\Nunit\bin\pnunit.framework.dll</FullName>
+      <ModuleName>pnunit.framework</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="21-69-E9-47-C6-F8-02-12-31-E6-18-DE-8E-43-24-C9-AB-F7-C2-BE">
+      <FullName>C:\Users\kchittiprolu\Documents\PracticeProjects\TextFormatProject\lib\Nunit\bin\pnunit-agent.exe</FullName>
+      <ModuleName>pnunit-agent</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="5E-95-A6-AD-88-48-98-B1-62-7F-4E-5A-C1-0E-F3-B7-85-56-44-E8">
+      <FullName>C:\Users\kchittiprolu\Documents\PracticeProjects\TextFormatProject\lib\Nunit\bin\lib\nunit.core.interfaces.dll</FullName>
+      <ModuleName>nunit.core.interfaces</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="11-90-6D-1E-D1-F9-84-3E-DD-77-2D-62-1C-5A-F8-B5-E7-44-F1-55">
+      <FullName>C:\Users\kchittiprolu\Documents\PracticeProjects\TextFormatProject\TextFormatApplication\build\testClasses\TextFormatTestLib.dll</FullName>
+      <ModuleName>TextFormatTestLib</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="A2-D0-DB-C9-20-FB-37-90-D4-D6-25-E5-C4-7B-E0-42-CA-32-C0-51">
+      <FullName>C:\Users\kchittiprolu\Documents\PracticeProjects\TextFormatProject\TextFormatApplication\build\testClasses\nunit.framework.dll</FullName>
+      <ModuleName>nunit.framework</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="F2-ED-FF-09-01-C9-D7-BC-29-AC-A6-93-C5-97-8A-0D-43-DD-8D-F2">
+      <FullName>C:\Users\kchittiprolu\Documents\PracticeProjects\TextFormatProject\lib\Nunit\bin\lib\nunit-console-runner.dll</FullName>
+      <ModuleName>nunit-console-runner</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="41-E4-B7-1F-1D-5A-03-E3-25-97-69-EB-0E-7F-02-BA-F4-B9-5A-D8">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Runtime.Remoting\v4.0_4.0.0.0__b77a5c561934e089\System.Runtime.Remoting.dll</FullName>
+      <ModuleName>System.Runtime.Remoting</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="58-2D-DD-6B-5F-8E-AA-A2-25-4E-A9-3A-D9-B3-F1-4C-32-10-00-FB">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll</FullName>
+      <ModuleName>System.Configuration</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="8B-7A-84-28-F9-A1-75-E1-A8-64-05-FB-84-AA-30-36-36-A1-5A-B9">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll</FullName>
+      <ModuleName>System.Xml</ModuleName>
+      <Classes />
+    </Module>
+    <Module hash="CE-95-FF-9F-B2-57-5C-E3-53-E3-4E-53-C8-81-F8-21-A3-8F-5A-B1">
+      <FullName>C:\Users\kchittiprolu\Documents\PracticeProjects\TextFormatProject\TextFormatApplication\build\testClasses\Assign.dll</FullName>
+      <ModuleName>Assign</ModuleName>
+      <Files>
+        <File uid="1" fullPath="c:\Users\kchittiprolu\Documents\PracticeProjects\TextFormatProject\TextFormatApplication\TextFormatApp\TextFormatLib\TextFormatOptions.cs" />
+      </Files>
+      <Classes>
+        <Class>
+          <FullName>&lt;Module&gt;</FullName>
+          <Methods />
+        </Class>
+        <Class>
+          <FullName>TextFormatLib.TextFormatOptions</FullName>
+          <Methods>
+            <Method visited="true" cyclomaticComplexity="2" sequenceCoverage="100" branchCoverage="100" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <MetadataToken>100663297</MetadataToken>
+              <Name>System.Boolean TextFormatLib.TextFormatOptions::setInput(System.String)</Name>
+              <FileRef uid="1" />
+              <SequencePoints>
+                <SequencePoint vc="14" uspid="1" ordinal="0" offset="0" sl="13" sc="9" el="13" ec="10" />
+                <SequencePoint vc="14" uspid="2" ordinal="1" offset="1" sl="14" sc="13" el="14" ec="37" />
+                <SequencePoint vc="3" uspid="3" ordinal="2" offset="12" sl="15" sc="17" el="15" ec="30" />
+                <SequencePoint vc="11" uspid="4" ordinal="3" offset="16" sl="17" sc="13" el="17" ec="14" />
+                <SequencePoint vc="11" uspid="5" ordinal="4" offset="17" sl="18" sc="17" el="18" ec="38" />
+                <SequencePoint vc="11" uspid="6" ordinal="5" offset="24" sl="19" sc="17" el="19" ec="29" />
+                <SequencePoint vc="14" uspid="7" ordinal="6" offset="28" sl="21" sc="9" el="21" ec="10" />
+              </SequencePoints>
+              <BranchPoints>
+                <BranchPoint vc="3" uspid="8" ordinal="0" offset="10" path="0" />
+                <BranchPoint vc="11" uspid="9" ordinal="1" offset="10" path="1" />
+              </BranchPoints>
+              <MethodPoint xsi:type="SequencePoint" vc="14" uspid="1" ordinal="0" offset="0" sl="13" sc="9" el="13" ec="10" />
+            </Method>
+            <Method visited="true" cyclomaticComplexity="2" sequenceCoverage="100" branchCoverage="100" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <MetadataToken>100663298</MetadataToken>
+              <Name>System.String TextFormatLib.TextFormatOptions::getCurrentInput()</Name>
+              <FileRef uid="1" />
+              <SequencePoints>
+                <SequencePoint vc="17" uspid="10" ordinal="0" offset="0" sl="24" sc="9" el="24" ec="10" />
+                <SequencePoint vc="17" uspid="11" ordinal="1" offset="1" sl="25" sc="13" el="25" ec="32" />
+                <SequencePoint vc="14" uspid="12" ordinal="2" offset="14" sl="26" sc="17" el="26" ec="31" />
+                <SequencePoint vc="3" uspid="13" ordinal="3" offset="23" sl="28" sc="17" el="28" ec="27" />
+                <SequencePoint vc="17" uspid="14" ordinal="4" offset="31" sl="29" sc="9" el="29" ec="10" />
+              </SequencePoints>
+              <BranchPoints>
+                <BranchPoint vc="14" uspid="15" ordinal="0" offset="12" path="0" />
+                <BranchPoint vc="3" uspid="16" ordinal="1" offset="12" path="1" />
+              </BranchPoints>
+              <MethodPoint xsi:type="SequencePoint" vc="17" uspid="10" ordinal="0" offset="0" sl="24" sc="9" el="24" ec="10" />
+            </Method>
+            <Method visited="true" cyclomaticComplexity="3" sequenceCoverage="100" branchCoverage="75" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <MetadataToken>100663299</MetadataToken>
+              <Name>System.Boolean TextFormatLib.TextFormatOptions::CapitalizeInput()</Name>
+              <FileRef uid="1" />
+              <SequencePoints>
+                <SequencePoint vc="3" uspid="17" ordinal="0" offset="0" sl="32" sc="9" el="32" ec="10" />
+                <SequencePoint vc="3" uspid="18" ordinal="1" offset="1" sl="33" sc="13" el="33" ec="80" />
+                <SequencePoint vc="1" uspid="19" ordinal="2" offset="36" sl="34" sc="13" el="34" ec="14" />
+                <SequencePoint vc="1" uspid="20" ordinal="3" offset="37" sl="35" sc="17" el="35" ec="67" />
+                <SequencePoint vc="1" uspid="21" ordinal="4" offset="49" sl="36" sc="17" el="36" ec="40" />
+                <SequencePoint vc="1" uspid="22" ordinal="5" offset="57" sl="37" sc="17" el="37" ec="29" />
+                <SequencePoint vc="2" uspid="23" ordinal="6" offset="61" sl="40" sc="17" el="40" ec="30" />
+                <SequencePoint vc="3" uspid="24" ordinal="7" offset="65" sl="41" sc="9" el="41" ec="10" />
+              </SequencePoints>
+              <BranchPoints>
+                <BranchPoint vc="3" uspid="25" ordinal="0" offset="7" path="0" />
+                <BranchPoint vc="0" uspid="26" ordinal="1" offset="7" path="1" />
+                <BranchPoint vc="1" uspid="27" ordinal="2" offset="34" path="0" />
+                <BranchPoint vc="2" uspid="28" ordinal="3" offset="34" path="1" />
+              </BranchPoints>
+              <MethodPoint xsi:type="SequencePoint" vc="3" uspid="17" ordinal="0" offset="0" sl="32" sc="9" el="32" ec="10" />
+            </Method>
+            <Method visited="true" cyclomaticComplexity="2" sequenceCoverage="100" branchCoverage="100" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <MetadataToken>100663300</MetadataToken>
+              <Name>System.Int32 TextFormatLib.TextFormatOptions::NumberOfLinesInInput()</Name>
+              <FileRef uid="1" />
+              <SequencePoints>
+                <SequencePoint vc="2" uspid="29" ordinal="0" offset="0" sl="44" sc="9" el="44" ec="10" />
+                <SequencePoint vc="2" uspid="30" ordinal="1" offset="1" sl="45" sc="13" el="45" ec="32" />
+                <SequencePoint vc="2" uspid="31" ordinal="2" offset="3" sl="46" sc="13" el="46" ec="32" />
+                <SequencePoint vc="1" uspid="32" ordinal="3" offset="16" sl="47" sc="13" el="47" ec="14" />
+                <SequencePoint vc="1" uspid="33" ordinal="4" offset="17" sl="48" sc="17" el="48" ec="68" />
+                <SequencePoint vc="1" uspid="34" ordinal="5" offset="47" sl="49" sc="13" el="49" ec="14" />
+                <SequencePoint vc="2" uspid="35" ordinal="6" offset="48" sl="51" sc="13" el="51" ec="31" />
+                <SequencePoint vc="2" uspid="36" ordinal="7" offset="52" sl="52" sc="9" el="52" ec="10" />
+              </SequencePoints>
+              <BranchPoints>
+                <BranchPoint vc="1" uspid="37" ordinal="0" offset="14" path="0" />
+                <BranchPoint vc="1" uspid="38" ordinal="1" offset="14" path="1" />
+              </BranchPoints>
+              <MethodPoint xsi:type="SequencePoint" vc="2" uspid="29" ordinal="0" offset="0" sl="44" sc="9" el="44" ec="10" />
+            </Method>
+            <Method visited="true" cyclomaticComplexity="2" sequenceCoverage="100" branchCoverage="100" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <MetadataToken>100663301</MetadataToken>
+              <Name>System.Void TextFormatLib.TextFormatOptions::UpdateEachLineWithSpecificStartString(System.String)</Name>
+              <FileRef uid="1" />
+              <SequencePoints>
+                <SequencePoint vc="1" uspid="39" ordinal="0" offset="0" sl="55" sc="9" el="55" ec="10" />
+                <SequencePoint vc="1" uspid="40" ordinal="1" offset="1" sl="56" sc="13" el="56" ec="72" />
+                <SequencePoint vc="1" uspid="41" ordinal="2" offset="29" sl="57" sc="13" el="57" ec="48" />
+                <SequencePoint vc="1" uspid="42" ordinal="3" offset="35" sl="59" sc="13" el="59" ec="20" />
+                <SequencePoint vc="1" uspid="43" ordinal="4" offset="36" sl="59" sc="37" el="59" ec="54" />
+                <SequencePoint vc="3" uspid="44" ordinal="5" offset="44" sl="59" sc="22" el="59" ec="33" />
+                <SequencePoint vc="3" uspid="45" ordinal="6" offset="50" sl="60" sc="13" el="60" ec="14" />
+                <SequencePoint vc="3" uspid="46" ordinal="7" offset="51" sl="61" sc="17" el="61" ec="37" />
+                <SequencePoint vc="3" uspid="47" ordinal="8" offset="58" sl="62" sc="17" el="62" ec="43" />
+                <SequencePoint vc="3" uspid="48" ordinal="9" offset="65" sl="63" sc="17" el="63" ec="79" />
+                <SequencePoint vc="3" uspid="49" ordinal="10" offset="79" sl="64" sc="13" el="64" ec="14" />
+                <SequencePoint vc="4" uspid="50" ordinal="11" offset="86" sl="59" sc="34" el="59" ec="36" />
+                <SequencePoint vc="1" uspid="51" ordinal="12" offset="100" sl="65" sc="13" el="65" ec="43" />
+                <SequencePoint vc="1" uspid="52" ordinal="13" offset="113" sl="66" sc="9" el="66" ec="10" />
+              </SequencePoints>
+              <BranchPoints>
+                <BranchPoint vc="1" uspid="53" ordinal="0" offset="98" path="0" />
+                <BranchPoint vc="3" uspid="54" ordinal="1" offset="98" path="1" />
+              </BranchPoints>
+              <MethodPoint xsi:type="SequencePoint" vc="1" uspid="39" ordinal="0" offset="0" sl="55" sc="9" el="55" ec="10" />
+            </Method>
+            <Method visited="true" cyclomaticComplexity="2" sequenceCoverage="100" branchCoverage="100" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <MetadataToken>100663302</MetadataToken>
+              <Name>System.Void TextFormatLib.TextFormatOptions::UpdateEachLineWithSpecificEndString(System.String)</Name>
+              <FileRef uid="1" />
+              <SequencePoints>
+                <SequencePoint vc="1" uspid="55" ordinal="0" offset="0" sl="69" sc="9" el="69" ec="10" />
+                <SequencePoint vc="1" uspid="56" ordinal="1" offset="1" sl="70" sc="13" el="70" ec="72" />
+                <SequencePoint vc="1" uspid="57" ordinal="2" offset="29" sl="71" sc="13" el="71" ec="48" />
+                <SequencePoint vc="1" uspid="58" ordinal="3" offset="35" sl="73" sc="13" el="73" ec="20" />
+                <SequencePoint vc="1" uspid="59" ordinal="4" offset="36" sl="73" sc="37" el="73" ec="54" />
+                <SequencePoint vc="3" uspid="60" ordinal="5" offset="44" sl="73" sc="22" el="73" ec="33" />
+                <SequencePoint vc="3" uspid="61" ordinal="6" offset="50" sl="74" sc="13" el="74" ec="14" />
+                <SequencePoint vc="3" uspid="62" ordinal="7" offset="51" sl="76" sc="17" el="76" ec="37" />
+                <SequencePoint vc="3" uspid="63" ordinal="8" offset="58" sl="77" sc="17" el="77" ec="43" />
+                <SequencePoint vc="3" uspid="64" ordinal="9" offset="65" sl="78" sc="17" el="78" ec="77" />
+                <SequencePoint vc="3" uspid="65" ordinal="10" offset="79" sl="79" sc="13" el="79" ec="14" />
+                <SequencePoint vc="4" uspid="66" ordinal="11" offset="86" sl="73" sc="34" el="73" ec="36" />
+                <SequencePoint vc="1" uspid="67" ordinal="12" offset="100" sl="80" sc="13" el="80" ec="43" />
+                <SequencePoint vc="1" uspid="68" ordinal="13" offset="113" sl="81" sc="9" el="81" ec="10" />
+              </SequencePoints>
+              <BranchPoints>
+                <BranchPoint vc="1" uspid="69" ordinal="0" offset="98" path="0" />
+                <BranchPoint vc="3" uspid="70" ordinal="1" offset="98" path="1" />
+              </BranchPoints>
+              <MethodPoint xsi:type="SequencePoint" vc="1" uspid="55" ordinal="0" offset="0" sl="69" sc="9" el="69" ec="10" />
+            </Method>
+            <Method visited="true" cyclomaticComplexity="1" sequenceCoverage="0" branchCoverage="0" isConstructor="true" isStatic="false" isGetter="false" isSetter="false">
+              <MetadataToken>100663303</MetadataToken>
+              <Name>System.Void TextFormatLib.TextFormatOptions::.ctor()</Name>
+              <SequencePoints />
+              <BranchPoints />
+              <MethodPoint vc="12" uspid="71" ordinal="0" offset="0" />
+            </Method>
+          </Methods>
+        </Class>
+      </Classes>
+    </Module>
+    <Module skippedDueTo="Filter" hash="2B-02-FF-14-83-9D-12-56-EF-97-DF-97-B2-E7-B8-F3-E5-F8-C2-32">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll</FullName>
+      <ModuleName>System.Core</ModuleName>
+      <Classes />
+    </Module>
+  </Modules>
+</CoverageSession>

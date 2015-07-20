@@ -1,0 +1,17 @@
+C:\Users\kchittiprolu\Documents\PracticeProjects\TextFormatLib\TextFormatLib\bin\Debug\TextFormatLib.dll
+C:\Users\kchittiprolu\Documents\PracticeProjects\TextFormatLib\TextFormatLib\bin\Debug\TextFormatLib.pdb
+C:\Users\kchittiprolu\Documents\PracticeProjects\TextFormatLib\TextFormatLib\obj\Debug\TextFormatLib.dll
+C:\Users\kchittiprolu\Documents\PracticeProjects\TextFormatLib\TextFormatLib\obj\Debug\TextFormatLib.pdb
+C:\Users\kchittiprolu\Documents\PracticeProjects\TextFormatLib\TextFormatLib\obj\Debug\TextFormatLib.csprojResolveAssemblyReference.cache
+C:\Users\kchittiprolu\Documents\PracticeProjects\TextFormatApplication\TextFormatApp\TextFormatLib\TextFormatLib\bin\Debug\TextFormatLib.dll
+C:\Users\kchittiprolu\Documents\PracticeProjects\TextFormatApplication\TextFormatApp\TextFormatLib\TextFormatLib\bin\Debug\TextFormatLib.pdb
+C:\Users\kchittiprolu\Documents\PracticeProjects\TextFormatApplication\TextFormatApp\TextFormatLib\TextFormatLib\obj\Debug\TextFormatLib.csprojResolveAssemblyReference.cache
+C:\Users\kchittiprolu\Documents\PracticeProjects\TextFormatApplication\TextFormatApp\TextFormatLib\TextFormatLib\obj\Debug\TextFormatLib.dll
+C:\Users\kchittiprolu\Documents\PracticeProjects\TextFormatApplication\TextFormatApp\TextFormatLib\TextFormatLib\obj\Debug\TextFormatLib.pdb
+C:\Users\kchittiprolu\Documents\PracticeProjects\TextFormatApplication\TextFormatApp\TextFormatLib\bin\Debug\TextFormatLib.dll
+C:\Users\kchittiprolu\Documents\PracticeProjects\TextFormatApplication\TextFormatApp\TextFormatLib\bin\Debug\TextFormatLib.pdb
+C:\Users\kchittiprolu\Documents\PracticeProjects\TextFormatApplication\TextFormatApp\TextFormatLib\obj\Debug\TextFormatLib.csprojResolveAssemblyReference.cache
+C:\Users\kchittiprolu\Documents\PracticeProjects\TextFormatApplication\TextFormatApp\TextFormatLib\obj\Debug\TextFormatLib.dll
+C:\Users\kchittiprolu\Documents\PracticeProjects\TextFormatApplication\TextFormatApp\TextFormatLib\obj\Debug\TextFormatLib.pdb
+C:\Users\kchittiprolu\Documents\PracticeProjects\TextFormatApplication\TextFormatApp\TextFormatLib\bin\Debug\nunit.framework.dll
+C:\Users\kchittiprolu\Documents\PracticeProjects\TextFormatApplication\TextFormatApp\TextFormatLib\bin\Debug\nunit.framework.xml

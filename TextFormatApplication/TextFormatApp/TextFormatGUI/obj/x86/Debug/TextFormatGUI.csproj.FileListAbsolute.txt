@@ -1,0 +1,10 @@
+C:\Users\kchittiprolu\Documents\PracticeProjects\TextFormatApplication\TextFormatApp\TextFormatGUI\bin\Debug\TextFormatGUI.exe
+C:\Users\kchittiprolu\Documents\PracticeProjects\TextFormatApplication\TextFormatApp\TextFormatGUI\bin\Debug\TextFormatGUI.pdb
+C:\Users\kchittiprolu\Documents\PracticeProjects\TextFormatApplication\TextFormatApp\TextFormatGUI\obj\x86\Debug\TextFormatGUI.Properties.Resources.resources
+C:\Users\kchittiprolu\Documents\PracticeProjects\TextFormatApplication\TextFormatApp\TextFormatGUI\obj\x86\Debug\TextFormatGUI.TextFormatForm.resources
+C:\Users\kchittiprolu\Documents\PracticeProjects\TextFormatApplication\TextFormatApp\TextFormatGUI\obj\x86\Debug\TextFormatGUI.csproj.GenerateResource.Cache
+C:\Users\kchittiprolu\Documents\PracticeProjects\TextFormatApplication\TextFormatApp\TextFormatGUI\obj\x86\Debug\TextFormatGUI.exe
+C:\Users\kchittiprolu\Documents\PracticeProjects\TextFormatApplication\TextFormatApp\TextFormatGUI\obj\x86\Debug\TextFormatGUI.pdb
+C:\Users\kchittiprolu\Documents\PracticeProjects\TextFormatApplication\TextFormatApp\TextFormatGUI\obj\x86\Debug\TextFormatGUI.csprojResolveAssemblyReference.cache
+C:\Users\kchittiprolu\Documents\PracticeProjects\TextFormatApplication\TextFormatApp\TextFormatGUI\bin\Debug\TextFormatLib.dll
+C:\Users\kchittiprolu\Documents\PracticeProjects\TextFormatApplication\TextFormatApp\TextFormatGUI\bin\Debug\TextFormatLib.pdb
